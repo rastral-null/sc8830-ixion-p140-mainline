@@ -22,6 +22,6 @@ Samsung Galaxy J1 (SM-J100H / SM-J120H), Galaxy J1 Mini (SM-J105H), Samsung Gala
 
 ## License
 
-This project is licensed under GPL-2.0-only (Device Tree files are dual-licensed under (GPL-2.0-only OR MIT).
+All original code, scripts, and Device Tree files in this repository are licensed under GPL-2.0-only (GPL-2.0-only OR MIT for DTS), while the files inside `dumps/vendor/` are prebuilt vendor binaries included strictly as a reverse-engineering reference.
 
 Warning! This project is using AI code. If you don't like it, don't use it
