@@ -1,8 +1,12 @@
 # Spreadtrum SC8830/DEXP Ixion P140 mainlining repository
 
 Out-of-tree patches, Device Tree sources, and BootROM tools for bringing up mainline Linux on the DEXP Ixion P140 (`sprd,sp8835eb` reference board) and other Spreadtrum SC8830 devices, with the goal of upstreaming support into the mainline kernel.
+<img width="261" height="500" alt="image" src="https://github.com/user-attachments/assets/bc2d06d3-e16e-4258-bd11-28b3a6afbd56" />
 
-## Hardware Specifications
+## Similar Devices
+Samsung Galaxy J1 (SM-J100H / SM-J120H), Galaxy J1 Mini (SM-J105H), Samsung Galaxy Core Prime (SM-G360H), Galaxy Grand Prime VE (SM-G531H), DEXP Ixion P145, DEXP Ixion P4, and Ginzzu RS7D are the closest hardware-compatible devices.
+
+## Hardware Specifications for P140
 
 | Component | Details |
 | :--- | :--- |
