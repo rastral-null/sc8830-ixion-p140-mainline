@@ -4,6 +4,8 @@ Out-of-tree patches, Device Tree sources, and BootROM tools for bringing up main
 
 <img width="261" height="500" alt="image" src="https://github.com/user-attachments/assets/bc2d06d3-e16e-4258-bd11-28b3a6afbd56" />
 
+Warning! This project is using AI code. If you don't like it, don't use it, please
+
 ## Similar Devices
 Samsung Galaxy J1 (SM-J100H / SM-J120H), Galaxy J1 Mini (SM-J105H), Samsung Galaxy Core Prime (SM-G360H), Galaxy Grand Prime VE (SM-G531H), DEXP Ixion P145, DEXP Ixion P4, and Ginzzu RS7D are the closest hardware-compatible devices.
 
@@ -23,5 +25,3 @@ Samsung Galaxy J1 (SM-J100H / SM-J120H), Galaxy J1 Mini (SM-J105H), Samsung Gala
 ## License
 
 All original code, scripts, and Device Tree files in this repository are licensed under GPL-2.0-only (GPL-2.0-only OR MIT for DTS), while the files inside `dumps/vendor/` are prebuilt vendor binaries included strictly as a reverse-engineering reference.
-
-Warning! This project is using AI code. If you don't like it, don't use it
