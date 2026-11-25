@@ -1,6 +1,7 @@
 # Spreadtrum SC8830/DEXP Ixion P140 mainlining repository
 
 Out-of-tree patches, Device Tree sources, and BootROM tools for bringing up mainline Linux on the DEXP Ixion P140 (`sprd,sp8835eb` reference board) and other Spreadtrum SC8830 devices, with the goal of upstreaming support into the mainline kernel.
+
 <img width="261" height="500" alt="image" src="https://github.com/user-attachments/assets/bc2d06d3-e16e-4258-bd11-28b3a6afbd56" />
 
 ## Similar Devices
